@@ -1,2 +1,2 @@
-# -Responsivn-webov-str-nka
+# -Responsivni webova stranka
 Projekt 1
